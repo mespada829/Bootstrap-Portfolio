@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 }
 
+
+
+
 body {
 	background: url("images/homebg.jpg");
 	padding-top: 0;
@@ -47,6 +50,13 @@ input [type=submit] {
 	border-style: hidden;
 	border-color: none;	
 }
+
+
+img {
+	
+float:left;
+	
+}	
 
 .wrap {
 	margin: 0 auto;
