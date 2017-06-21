@@ -1,5 +1,5 @@
 # Bootstrap-Portfolio
-I re-created the Basic Portfolio with Bootstrap.
+I re-created the Basic Portfolio repo with Bootstrap libraries.
 <br>
-Link to Portfolio: https://mespada829.github.io/Bootstrap-Portfolio/
+<b>Link to Portfolio: <b> https://mespada829.github.io/Bootstrap-Portfolio/
 
